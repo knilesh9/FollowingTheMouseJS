@@ -13,6 +13,8 @@ window.addEventListener("mousemove", function(details){
 
     gsap.to(".rectBox", {
         left: valX,
+
+        ease: Power4,
     });
 
 });
