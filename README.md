@@ -6,3 +6,5 @@ Just another simple practise module, with JS and GSAP
 ## Main Motive
 * Well, to practise JS, and DOM
 * Next, will be module 3 with image pop up.
+
+Inspired from Sheriyans Codin School YT
